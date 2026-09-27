@@ -69,7 +69,7 @@ git push origin main
 
 報告可使用：
 
-> AI 回應的完整程式碼已保存於 GitHub。儲存庫首頁提供功能說明、安裝方法及檔案索引；固定版本連結對應本次提交內容。主要檔案為 app.py 與 engine.py，測試紀錄見 TESTING.md。本次由一輪原始提示啟動，後續修正為同一輪內的 AI 自動測試與調整。
+> AI 回應的完整程式碼已保存於 GitHub。儲存庫首頁提供功能說明、安裝方法及檔案索引；固定版本連結對應本次提交內容。主要檔案為 app.py 與 engine.py，測試紀錄見 TESTING.md。各輪實際提示詞與修改過程見 AI_COLLABORATION.md。
 >
 > 儲存庫首頁：［貼上實際網址］
 >
