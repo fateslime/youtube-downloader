@@ -1,0 +1,14 @@
+.venv/
+.runtime/
+.cache/
+__pycache__/
+downloads/
+settings.json
+*.log
+*.py[cod]
+.env
+.env.*
+cookies*.txt
+.tools/
+.DS_Store
+Thumbs.db
